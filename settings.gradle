@@ -1,0 +1,3 @@
+include ':gifdialog'
+include ':app'
+rootProject.name = "GifDialog"
